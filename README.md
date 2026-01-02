@@ -1,1 +1,1 @@
-# Dog-or-Human
+# Dog-or-Not
